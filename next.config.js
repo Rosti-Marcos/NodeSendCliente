@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-      backendURL: 'https://node-send-servidor.vercel.app/',
+      backendURL: 'nodesendservidor-production.up.railway.app',
       frontendURL: 'https://node-send-cliente-beige.vercel.app'
   }
 }
