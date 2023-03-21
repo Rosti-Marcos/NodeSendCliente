@@ -1,6 +1,6 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
+module.exports = {
+  env: {
+      backendURL: 'https://node-send-servidor.vercel.app',
+      frontendURL: 'https://nodesend-cliente-wine-six.vercel.app'
+  }
 }
-
-module.exports = nextConfig
